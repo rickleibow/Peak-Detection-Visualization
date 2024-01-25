@@ -5,8 +5,8 @@ import Chart from './components/Chart';
 
 ReactDOM.render(
   <div>
-    <a href="https://github.com/iammowgoud/Peak-Detection-Visualization" target="_blank" rel="noopener noreferrer">[ GitHub ]</a>
-    <a href="https://hatem-hassan.com/blog/Realtime-Data-Visualization-with-Peak-Detection-using-SocketIO-D3-and-React/" target="_blank" rel="noopener noreferrer">[ Research ]</a>
+    <a href="https://github.com/rickleibow/Peak-Detection-Visualization" target="_blank" rel="noopener noreferrer">[ GitHub ]</a>
+    <a href="#" target="_blank" rel="noopener noreferrer">[ Research ]</a>
     
     <h1>Peak Detection Dashboard</h1>
     
